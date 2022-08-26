@@ -1,6 +1,6 @@
 ### Wang-Taek Oh @oh_kingtaek
 - - -
-Interests : `Instance Segmentation`, `Image Restoration`, `Panoptic Segmentation`, `Video Classification`
+Interests : `Autonomous Driving`, `Image Restoration`, `Panoptic Segmentation`, `Video Classification`
 
 
 <h3 align="center"> 🛠️Tech Stack🛠️️ </h3>
