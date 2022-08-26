@@ -1,4 +1,4 @@
-### Oh Wangtaek @oh_kingtaek
+### Wang-Taek Oh @oh_kingtaek
 - - -
 Interests : `Instance Segmentation`, `Image Restoration`, `Panoptic Segmentation`, `Video Classification`
 
