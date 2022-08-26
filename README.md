@@ -15,4 +15,4 @@ Interests : `Autonomous Driving`, `Image Restoration`, `Panoptic Segmentation`, 
 
 ## Publication
 * CAIR: Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal `Top-tier` <br>
-Woon-Ha Yeo1, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu* (2022). European Conference on Computer Vision (ECCV).
+Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu* (2022). European Conference on Computer Vision (ECCV).
