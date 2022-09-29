@@ -16,3 +16,6 @@ Interests : `Autonomous Driving`, `Image Restoration`, `Panoptic Segmentation`, 
 ## Publication
 * [CAIR](https://arxiv.org/abs/2208.14039): Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal `Top-tier` <br>
 Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu* (2022). European Conference on Computer Vision (ECCV).
+
+## Competition
+* [Dacon](https://dacon.io/competitions/official/235951/overview/description): 월간 데이콘 숫자 3D 이미지 분류 AI 경진대회 2등/165 (1%)
