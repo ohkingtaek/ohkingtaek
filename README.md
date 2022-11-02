@@ -1,6 +1,6 @@
 ### Wang-Taek Oh @oh_kingtaek
 - - -
-Interests : `Autonomous Driving`, `Image Restoration`, `Panoptic Segmentation`, `Video Classification`
+Interests : `Autonomous Driving`, `Image Restoration`, `Panoptic Segmentation`, `Pose Estimation`
 
 
 <h3 align="center"> 🛠️Tech Stack🛠️️ </h3>
@@ -18,4 +18,5 @@ Interests : `Autonomous Driving`, `Image Restoration`, `Panoptic Segmentation`, 
 Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu* (2022). European Conference on Computer Vision (ECCV).
 
 ## Competition
-* [Dacon](https://dacon.io/competitions/official/235951/overview/description): 월간 데이콘 숫자 3D 이미지 분류 AI 경진대회 2등/165 (1%)
+* [Dacon](https://dacon.io/competitions/official/235951/overview/description): 월간 데이콘 숫자 3D 이미지 분류 AI 경진대회 2등/165 (2%)
+* [Dacon](https://dacon.io/competitions/official/235977/overview/description): AI 양재 허브 인공지능 오픈소스 경진대회 7등/124 (6%)
