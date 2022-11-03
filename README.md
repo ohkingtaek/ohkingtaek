@@ -13,6 +13,10 @@ Interests : `Autonomous Driving`, `Image Restoration`, `Panoptic Segmentation`, 
 <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
 
+## Project
+* 스마트 홈 카메라를 이용한 인공지능기반 영유아 이상 징후 및 정상 운동발달 모니터링 연구  
+    한국연구재단 - 기본연구, 2022년 6월 1일부터(진행)
+  
 ## Publication
 * [CAIR](https://arxiv.org/abs/2208.14039): Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal `Top-tier` <br>
 Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu* (2022). European Conference on Computer Vision (ECCV) Workshop.
