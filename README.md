@@ -20,3 +20,4 @@ Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ry
 ## Competition
 * [Dacon](https://dacon.io/competitions/official/235951/overview/description): 월간 데이콘 숫자 3D 이미지 분류 AI 경진대회 2등/165 (2%)
 * [Dacon](https://dacon.io/competitions/official/235977/overview/description): AI 양재 허브 인공지능 오픈소스 경진대회 7등/124 (6%)
+* [DNA+드론챌린지](http://challenge-dnadrone.com): 지정공모II 실시간 AI 서비스 챌린지 과학기술정보통신부 장관상 (2022)
