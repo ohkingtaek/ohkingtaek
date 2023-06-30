@@ -1,6 +1,6 @@
 ### Wang-Taek Oh @oh_kingtaek
 - - -
-Interests : `Autonomous Driving`, `Image Restoration`, `Panoptic Segmentation`, `Pose Estimation`
+Interests : `Image Restoration`, `Action Classification`, `Medical AI`, `Transformers`, `MultiModal Learning`
 
 
 <h3 align="center"> 🛠️Tech Stack🛠️️ </h3>
