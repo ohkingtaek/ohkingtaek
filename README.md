@@ -1,6 +1,8 @@
 ### Wang-Taek Oh @oh_kingtaek
 - - -
-Interests : `Image Restoration`, `Action Classification`, `Medical AI`, `Transformers`, `MultiModal Learning`
+* [PortFolio](https://ohkingtaek.github.io/)<br>
+* [CV](https://docs.google.com/document/d/1-iZd9iQa5n-YG5HDDBT6QmNIyrnlgUGLl66bKXpdJZ4/edit?usp=sharing)<br>
+* Interests : `Image Restoration`, `Action Classification`, `Medical AI`, `Transformers`, `MultiModal Learning`
 
 
 <h3 align="center"> 🛠️Tech Stack🛠️️ </h3>
