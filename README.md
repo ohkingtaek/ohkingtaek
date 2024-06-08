@@ -76,6 +76,7 @@ Woon-Ha Yeo, Wang-Taek Oh, Yeo-Reum Lee, Han-Cheol Ryu* (2023). Computer Vision 
 
 ## 🎓 Education & Experience
 * [삼육대학교](https://www.syu.ac.kr)
+  * GPA : 4.01 / 4.5
   * Hnv Lab 학부연구생
     * Date: Sep. 2021 to Oct. 2023
 * [네이버 부스트캠프](https://boostcamp.connect.or.kr) 
