@@ -2,7 +2,7 @@
 - - -
 * [PortFolio](https://ohkingtaek.github.io/)<br>
 * [CV](https://docs.google.com/document/d/1-iZd9iQa5n-YG5HDDBT6QmNIyrnlgUGLl66bKXpdJZ4/edit?usp=sharing)<br>
-* Interests : `Image Restoration`, `Action Classification`, `Transformers`, `Model Pruning`, `MultiModal Learning`, `MLOps`
+* Interests : `Computer Vision`, `Image Restoration`, `Action Classification`, `MultiModal Learning`, `Model Pruning`, `MLOps`
 
 
 <h3 align="center"> 🛠️Tech Stack🛠️️ </h3>
@@ -62,7 +62,7 @@ Woon-Ha Yeo, Wang-Taek Oh, Yeo-Reum Lee, Han-Cheol Ryu* (2023). Computer Vision 
 * 딥러닝 기반 의상 교체 시스템 [[Code]](https://github.com/patrashu/clothes_matching)
   * Date: Apr. 2023 to Jun. 2023
 * 인공지능 기반 방문자 관리 시스템 [[Code]](https://github.com/patrashu/cnai)
-  * Sponsor: CNAI [[Link]](https://www.cnai.ai)
+  * Sponsor: [CNAI](https://www.cnai.ai)
   * Date: Mar. 2023 to Jun. 2023
 * 스마트 홈 카메라를 이용한 인공지능기반 영유아 이상 징후 및 정상 운동발달 모니터링 연구: 인공지능 기반 영유아 이상 징후 모니터링 시스템 개발
   * Sponsor: 한국연구재단
