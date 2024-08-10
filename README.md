@@ -22,7 +22,7 @@
 ## 💼 Career
 * [카카오스타일](https://kakaostyle.com)
   * Data Scientist Intern (Vision&NLP)
-  * Date: May.2024 ~
+  * Date: May.2024 ~ Nov.2024
     
 
 ## 📜 Publication
@@ -40,6 +40,7 @@ Woon-Ha Yeo, Wang-Taek Oh, Yeo-Reum Lee, Han-Cheol Ryu* (2023). Computer Vision 
 ## 📊 Projects
 * K-Logo Gen: 로고 생성 프로젝트 [[Code]](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-09) [[Video]](https://youtu.be/-TJc_Sb6EOA)
   * Sponsor: Naver Connect Foundation
+  * 이미지 생성 결과 웹으로 프로덕션 배포
   * Date: Feb. 2024 to Apr. 2024
 * Hand Bone Image Segmentation: 손 뼈 이미지 분할 프로젝트 [[Code]](https://github.com/boostcampaitech6/level2-cv-semanticsegmentation-cv-09)
   * Sponsor: Naver Connect Foundation
@@ -63,6 +64,7 @@ Woon-Ha Yeo, Wang-Taek Oh, Yeo-Reum Lee, Han-Cheol Ryu* (2023). Computer Vision 
   * Date: Apr. 2023 to Jun. 2023
 * 인공지능 기반 방문자 관리 시스템 [[Code]](https://github.com/patrashu/cnai)
   * Sponsor: [CNAI](https://www.cnai.ai)
+  * SW 페스티벌 우수작 선정 & 포스터 전시
   * Date: Mar. 2023 to Jun. 2023
 * 스마트 홈 카메라를 이용한 인공지능기반 영유아 이상 징후 및 정상 운동발달 모니터링 연구: 인공지능 기반 영유아 이상 징후 모니터링 시스템 개발
   * Sponsor: 한국연구재단
@@ -71,7 +73,7 @@ Woon-Ha Yeo, Wang-Taek Oh, Yeo-Reum Lee, Han-Cheol Ryu* (2023). Computer Vision 
   * Sponsor: 한국연구재단
   * Date: Mar. 2022 to Feb. 2023
 * 딥러닝 기반 테라헤르츠 이미지 해상도 및 태그 인식률 향상 기술 개발
-  * Sponsor: 한국전자통신연구원
+  * Sponsor: 한국전자통신연구원(ETRI)
   * Date: Jun. 2022 to Nov. 2023
 
 ## 🎓 Education & Experience
@@ -82,3 +84,6 @@ Woon-Ha Yeo, Wang-Taek Oh, Yeo-Reum Lee, Han-Cheol Ryu* (2023). Computer Vision 
 * [네이버 부스트캠프](https://boostcamp.connect.or.kr) 
   * AI Tech 6기 Computer Vision Track
     * Date: Nov. 2022 to Apr. 2024
+* [오픈소스 컨트리뷰션 아카데미](https://www.contribution.ac)
+  * PyTorch 공식 문서 한글화 기여 프로젝트
+    * Date: Jul. 2024 to Nov. 2024
