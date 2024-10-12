@@ -104,8 +104,8 @@ Woon-Ha Yeo, Wang-Taek Oh, Yeo-Reum Lee, Han-Cheol Ryu* (2023). Computer Vision 
   * 글쓰는 또라이 10기 : Technical Blogging
     * Date: Sep. 2024 to Feb. 2025
 
-## 📝 Qualification
-* [SQLD](https://www.dataq.or.kr)
+## 📝 Qualification
+* [SQLD](https://www.dataq.or.kr)
   * Date: Sep. 2024
 * [정보처리기사](https://www.q-net.or.kr)
   * Date: Sep. 2024
