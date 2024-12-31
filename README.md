@@ -1,6 +1,6 @@
 ### Wang-Taek Oh @oh_kingtaek
 - - -
-* [Resume](https://docs.google.com/document/d/1wuWTa8AK8ZHxhlo6asdk9xqdD7USoz4Ee_4i0zt6vhU/edit?usp=sharing)<br>
+* [Resume](https://docs.google.com/document/d/1umQLAoJHY8P2wRt7Q1SveSLFkaqj8zBF_69EYLjzthI/edit?usp=sharing)<br>
 * Interests : `Computer Vision`, `Image Restoration`, `MultiModal Learning`, `Model Compression`, `MLOps`, `Data Engineering`
 
 
